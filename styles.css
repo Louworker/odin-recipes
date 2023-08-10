@@ -12,11 +12,23 @@ font-size: 50px;
 img {
 width: 400px;
 height: auto;
+display: inline-block;
+margin-right: auto;
 
 }
 
 h2 {
-
+ text-align: center;
     color: gainsboro;
     font-size: 40px;
+}
+
+p {
+ background-color: lightsalmon;
+ width: 50%;
+height: 50px;
+text-align: center;
+padding: 8px;
+display: inline-block; 
+border: 2px solid black;
 }
